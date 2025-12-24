@@ -1,6 +1,9 @@
 # Quantum101
 An introduction to quantum computing and quantum deep learning (QDL). 
 
+
+<img src="misc/Quantum101.jpg" alt="Quantum101 logo" width="25%">
+
 ---
 
 ## 📚 Description / 專案簡介
